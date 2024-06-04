@@ -54,7 +54,7 @@ Serverは離れている所にも設置して置く事が出来ます。
 
 PhysicsとJoint情報として活用する方法なので、モーターの詳細調整もできると思います。
 
-#### GRID SYSTEM & AUTO PAIRING
+### GRID SYSTEM & AUTO PAIRING
 無人ドロンや飛行機などで
 
 いくつかの機器は
@@ -64,10 +64,12 @@ PhysicsとJoint情報として活用する方法なので、モーターの詳�
 増幅器を付けたら、通信の可能範囲を広げることも可能です。
 
 
-#### REMOTE PAIRING & CHARGE SYSTEM
+### REMOTE PAIRING & MODULE UPDATE & CHARGE SYSTEM
 バッテリーが切れる前に他のバッテリーを持つ無人飛行機で
 
 バッテリーを提供する事も可能だと思います。
+
+他のMODULEで交換するのも。。。
 
 ![nrXLJNaDFPrD9zjsEBaHTlUWJ5QWEc2kVJi_Xv25xtqEIT4D1zUyoF035RonC9HpF2XsqX39jsvMNTOVQ5UFRQ.webp](nrXLJNaDFPrD9zjsEBaHTlUWJ5QWEc2kVJi_Xv25xtqEIT4D1zUyoF035RonC9HpF2XsqX39jsvMNTOVQ5UFRQ.webp)
 
