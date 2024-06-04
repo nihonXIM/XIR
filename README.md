@@ -41,6 +41,7 @@ Serverは離れている所にも設置して置く事が出来ます。
 #### Client Side
 
 ![img_1.png](img_1.png)
+
 <div><video controls src="./Movie_001.mp4" ></video></div>
 
 [Movie_001.mp4](Movie_001.mp4)
