@@ -45,3 +45,30 @@ Serverは離れている所にも設置して置く事が出来ます。
 ![Movie_002.gif](Movie_002.gif)
 ![Movie_003.gif](Movie_003.gif)
 ![Movie_007.gif](Movie_007.gif)
+
+シミュレーションの結果でまたはシミュレーションで動くことも可能です。
+
+現場の位置とシミュレーション環境の位置(Rotation, Coordination, Etc)を同期化したら、
+
+一度、事前にシミュレーションして問題を解決して行う事も可能です。
+
+PhysicsとJoint情報として活用する方法なので、モーターの詳細調整もできると思います。
+
+#### GRID SYSTEM & AUTO PAIRING
+無人ドロンや飛行機などで
+
+いくつかの機器は
+
+端末(TERMINAL)として、サーバー(SERVER)として役割を果たします。
+
+増幅器を付けたら、通信の可能範囲を広げることも可能です。
+
+
+#### REMOTE PAIRING & CHARGE SYSTEM
+バッテリーが切れる前に他のバッテリーを持つ無人飛行機で
+
+バッテリーを提供する事も可能だと思います。
+
+![nrXLJNaDFPrD9zjsEBaHTlUWJ5QWEc2kVJi_Xv25xtqEIT4D1zUyoF035RonC9HpF2XsqX39jsvMNTOVQ5UFRQ.webp](nrXLJNaDFPrD9zjsEBaHTlUWJ5QWEc2kVJi_Xv25xtqEIT4D1zUyoF035RonC9HpF2XsqX39jsvMNTOVQ5UFRQ.webp)
+
+
