@@ -9,7 +9,19 @@
 
 国民の安全と国防を強くにするにも活用できます。
 
-### Diagram
+## AI+Robotics
+### AIで新しいエアコンの原理の生成
+エアコンの原理は科学者が発見した一つの方法しかないのか\
+AIに新しいエアコンの原理を発見させてもらったら、\
+いい結果が出ることもおかしいことはないだと思います。
+
+### AIで新しいロボットの構造の生成
+
+### AIでエネルギーは最小化させて、効率は最大化させて
+色々な部品の形を作り方
+
+
+### General Robotics Diagram
 事前に3D環境でロボットを物理的にシミュレーションして、
 
 改善したり、テストしたり活用する方法です。
@@ -70,7 +82,5 @@ PhysicsとJoint情報として活用する方法なので、モーターの詳�
 バッテリーを提供する事も可能だと思います。
 
 他のMODULEで交換するのも。。。
-
-![nrXLJNaDFPrD9zjsEBaHTlUWJ5QWEc2kVJi_Xv25xtqEIT4D1zUyoF035RonC9HpF2XsqX39jsvMNTOVQ5UFRQ.webp](nrXLJNaDFPrD9zjsEBaHTlUWJ5QWEc2kVJi_Xv25xtqEIT4D1zUyoF035RonC9HpF2XsqX39jsvMNTOVQ5UFRQ.webp)
 
 
