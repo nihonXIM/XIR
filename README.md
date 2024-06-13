@@ -1,5 +1,57 @@
 # XIR
+```mermaid
+flowchart LR
 
+
+
+
+
+
+    subgraph Telecommunication
+        WIRL(Wireless)
+        SAT(Satellite)
+        INT(Internet)
+        SER(Server)
+        NET(Network)
+    end
+
+    MEC --> MOT
+    MET --> MEC
+    MOT --> SMO
+    ELE --> CIRC
+    CHIP --> SMO
+    CIRC --> CHIP
+    subgraph Computer Science
+        AI(AI)
+        PL(Programming Languages)
+        NP(Network Programming)
+        SI(Simulation)
+    end
+    PL --> SI
+    PL --> AI
+    PL --> NP
+
+    
+    subgraph Robotics
+        MET(Machining)
+        MEC(Mechanics)
+        ELE(Electronics)
+        CHIP(Chipsets)
+        CIRC(Circuits)
+        MOT(Motor)
+        SMO(Servo Motor)
+        3DP(3D Printer)
+    end
+
+    subgraph Fundamentals
+        SCI(Science)
+        PHY(Physics)
+        CHE(Chemistry)
+        EMW(ElectroMagnetic Wave)
+    end
+
+
+```
 ## Robotics研究について
 こちらにはコンピュータ科学のAIと共にロボットに関する紹介します。
 
