@@ -1,12 +1,18 @@
 # XIR
+
+## Robotics研究について
+こちらにはコンピュータ科学のAIと共にロボットに関する紹介します。
+
+色々な産業現場や様々な状況にとって、
+
+そして、
+
+国民の安全と国防を強くにするにも活用できます。
+
+## ロボットとAIの発展と過程
+ロボットの開発するには以下のような科目が必要です。
 ```mermaid
 flowchart LR
-
-
-
-
-
-
     subgraph Telecommunication
         WIRL(Wireless)
         SAT(Satellite)
@@ -40,28 +46,36 @@ flowchart LR
         CIRC(Circuits)
         MOT(Motor)
         SMO(Servo Motor)
-        3DP(3D Printer)
+        subgraph 3D CAD/CAM
+            DES(Design)
+            DOC(Documentation)
+            TOL(Tools)
+            FEM(FEM)
+        end
+        subgraph 3D Printer
+            ALM(AllMaterials)
+            MAC(Machining)
+            ASS(Assembly)
+        end
     end
-
+    
     subgraph Fundamentals
         SCI(Science)
         PHY(Physics)
         CHE(Chemistry)
-        EMW(ElectroMagnetic Wave)
+        EE(Electrics)
+        EMW([ElectroMagnetic Wave])
+        PHY([Physics])
+        
+        CHE --> EE
+        SCI --> EMW
+        SCI --> PHY
     end
 
-
 ```
-## Robotics研究について
-こちらにはコンピュータ科学のAIと共にロボットに関する紹介します。
 
-色々な産業現場や様々な状況にとって、
+## ロボットの発展にAIを利用する
 
-そして、
-
-国民の安全と国防を強くにするにも活用できます。
-
-## AI+Robotics
 ### AIで新しいエアコンの原理の生成
 エアコンの原理は科学者が発見した一つの方法しかないのか\
 AIに新しいエアコンの原理を発見させてもらったら、\
@@ -134,9 +148,6 @@ PhysicsとJoint情報として活用する方法なので、モーターの詳�
 バッテリーを提供する事も可能だと思います。
 
 他のMODULEで交換するのも。。。
-
-
-
 
 ### 空間のシミュレーション
 
