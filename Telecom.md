@@ -157,8 +157,7 @@ OS Ports Compatibilities
 * SSL 443
 * HTTP 80
 * Tomcat 8080
-* [reserved_ports.md](..%2FXIR_GIT%2Freserved_ports.md)
-
+* [Reserved Ports](reserved_ports.md)
 
 
 ### Serial Programming

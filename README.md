@@ -20,6 +20,8 @@
 ロボットの開発するには以下のような科目が必要です。
 ```mermaid
 flowchart LR
+    
+    Painting
     subgraph Telecommunication
         WIRL(Wireless)
         SAT(Satellite)
@@ -80,6 +82,10 @@ flowchart LR
     end
 
 ```
+* [Telecommunication](Telecom.md)
+* [Painting](Painting.md)
+* [Machining](Machining.md)
+* [Simulation](Simulation.md)
 
 ## ロボットの発展にAIを利用する
 
