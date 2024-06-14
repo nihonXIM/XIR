@@ -20,8 +20,12 @@
 ロボットの開発するには以下のような科目が必要です。
 ```mermaid
 flowchart LR
-PT(Painting)
 
+subgraph ETC
+    PT(Painting) 
+    IoT(Internet Of Things)
+    FPGA(Field-programmable gate array)
+end
 
 
     subgraph Input and Process and Output
@@ -111,6 +115,7 @@ PT(Painting)
 * [Machining](Machining.md)
 * [Simulation](Simulation.md)
 * [Sensor](Sensor.md)
+* [Mainboard](Mainboard.md)
 
 ## ロボットの発展にAIを利用する
 

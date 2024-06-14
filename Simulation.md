@@ -8,7 +8,6 @@ flowchart LR
     
     subgraph AI Robot Development Platform 
         NI(NvidiaIssac)
-        NJ(NvidiaJetson)
         UR(Unity Robotics)
     end
     
