@@ -10,10 +10,12 @@ flowchart LR
     SEN --SignalData--> SDP
 ```
 ### Camera Sensor
+* Single Image Process
+* 動画の Process
 ### NightVision Sensor
 ### Thermal Sensor
 ### LiDAR Sensor
-2D, 3D, 3D+
+2D, 3D, 3D+ True Depth
 ### Light Sensor
 ### UltraSonic Sensor
 ### Temperature Sensor
@@ -25,7 +27,7 @@ flowchart LR
 # Sensor Processing
 [Computer Vision](ComputerVision.md)
 
-[LiDar Processing](LiDarProcessing.md)
+[LiDAR Processing](LiDarProcessing.md)
 
 [3D Reconstruction](3DReconstruction.md)
 
