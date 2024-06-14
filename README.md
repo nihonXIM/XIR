@@ -86,6 +86,7 @@ flowchart LR
 * [Painting](Painting.md)
 * [Machining](Machining.md)
 * [Simulation](Simulation.md)
+* [Sensor](Sensor.md)
 
 ## ロボットの発展にAIを利用する
 

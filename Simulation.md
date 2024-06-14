@@ -52,11 +52,14 @@ flowchart LR
 
 ## Flexibilities and Expandable Engine
 * Component
-* Programming
+* Server, Client Programming
+* AI, Control Programming
 * Cross Devices
 * Compatibilities
 * Variations
 * Realtime Programmable and Controllable System
+* User Interface
+* Publishing
 ```mermaid
 flowchart LR
     subgraph WEB
@@ -70,7 +73,6 @@ flowchart LR
     end
 
 ```
-
 
 
 ## IDE
