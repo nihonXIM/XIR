@@ -20,8 +20,32 @@
 ロボットの開発するには以下のような科目が必要です。
 ```mermaid
 flowchart LR
-    
-    Painting
+PT(Painting)
+
+
+
+    subgraph Input and Process and Output
+        SEI(Sensors Input)
+        PRO(Process)
+        CHO(Output Chemicals)
+        PHO(Output Physical)
+        CEMO(Output Electro Magnetic Wave)
+        SEI <--> PRO
+        PRO <--> CHO
+        PRO <--> PHO
+        PRO <--> CEMO
+
+        
+        
+        
+        
+
+        PRO -.-> SEI
+        CHO -.-> SEI
+        PHO -.-> SEI
+        CEMO -.-> SEI
+    end
+
     subgraph Telecommunication
         WIRL(Wireless)
         SAT(Satellite)
