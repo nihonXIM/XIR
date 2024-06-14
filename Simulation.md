@@ -5,6 +5,13 @@
 
 ```mermaid
 flowchart LR
+    
+    subgraph AI Robot Development Platform 
+        NI(NvidiaIssac)
+        NJ(NvidiaJetson)
+        UR(Unity Robotics)
+    end
+    
     subgraph Industrials
         SolidWorks
         AutoCAD
@@ -20,9 +27,10 @@ flowchart LR
         Flex
         Blast
     end
-    click warp 'https://github.com/NVIDIA/warp'
 
 ```
+
+
 ## Real-time physics engines
 ### Open source
 * Advanced Simulation Library - open source hardware accelerated multiphysics simulation software
@@ -99,3 +107,19 @@ flowchart LR
     end
 
 ```
+
+#### Robot Development Reference
+
+* [Hackster](https://www.hackster.io/jlamperez10)
+* [HowToMechatronics](https://howtomechatronics.com)
+* [NvidiaJetson](https://developer.nvidia.com/embedded/community/jetson-projects/weed_killing_robot)
+* [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
+
+* [Microsoft Air Sim](https://microsoft.github.io/AirSim/)
+* [GOOGLE ROBEL](https://sites.google.com/view/roboticsbenchmarks/platforms)
+* [Warp](https://github.com/NVIDIA/warp)
+* [Web Bot](https://cyberbotics.com/)
+* [Wandelbots](https://www.wandelbots.com/)
+* [ROSbot 2.0](https://robots.ros.org/)
+* [Poppy Project](https://www.poppy-project.org/en/)
+* [Linorobot](https://linorobot.org/)
