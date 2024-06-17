@@ -116,6 +116,7 @@ end
 * [Simulation](Simulation.md)
 * [Sensor](Sensor.md)
 * [Mainboard](Mainboard.md)
+* [Motor](ServoMotor.md)
 
 ## ロボットの発展にAIを利用する
 
